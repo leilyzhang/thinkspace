@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "Leily"
-title2: "s'Blog" # default: ""
+title2: "'s Blog" # default: ""
 description: "Leily 的博客."
 keywords: "python linux saltstack bash 等"
 url: http://leilyzhang.github.io/ # site url
