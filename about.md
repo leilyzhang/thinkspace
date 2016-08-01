@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Leily 从事运维工作，热爱python，自动化运维.
-无论现在多么艰苦，我依然昂首向前！
+-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
