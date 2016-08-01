@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Leily"
-  job      : "IT运维人员"
+  job      : "SA"
   bio      : "1+1=3 is always TRUE in my world, SO，JUST it."
   thumb    : /images/author.jpg
   email    : 274154142@qq.com
@@ -42,8 +42,8 @@ author:
 
 # social settings
 og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_card: "leily"
+twitter_site: "@leily"
 
 gems:
   - bourbon
