@@ -3,7 +3,7 @@
 title: "Leily"
 title2: "'s Blog" # default: ""
 description: "Leily 的博客."
-keywords: "python linux saltstack bash 等"
+keywords: "python linux saltstack bash zabbix等"
 url: http://leilyzhang.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
